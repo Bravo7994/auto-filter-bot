@@ -1,20 +1,11 @@
 ## • What's New ?
 
-- ⟴ URL Shortener Added
-- ⟴ Self Delete Added (Auto delete)
-- ⟴ Filter On Off Option Added
-- ⟴ Custom Welcome Message
-- ⟴ URL Shortener Added
-- ⟴ Custom Download Name And URL
-- ⟴ Custom Texts (About, Help, Stats,More..)
-- ⟴ Custom URL Buttons (Updates channel, Add To Group, Force Sub, More...)
+- 🔘 Self Delete Added (Auto delete)
+- 🔘 Filter On Off Option Added
+- 🔘 Custom Welcome Message
+- 🔘 Custom Download Name And URL
+- 🔘 Custom Texts (About, Help, Stats,More..)
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/BUDDY1609/auto-filter-bot&branch=main&name=nvsautofilterbot)
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BUDDY1609/auto-filter-bot/main/screenshort/Screenshot%202022-11-17%20092848.png" alt="Koyeb Support">
-</p>
 <h1 align="center">
   <b>Koyeb Support</b>
 </h1>
@@ -90,6 +81,9 @@ python3 bot.py
 </p>
 </details>
 
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/leanardo7994/auto-filter-bot&branch=main&name=filterbot01)
+
+
 
 ## Commands
 ```
@@ -120,8 +114,7 @@ batch - to create link for multiple posts
 link - to create link for one post
 ```
 ## Support
-[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://t.me/greymatters_bots_discussion)
-[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://t.me/greymatter_bots)
+[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://t.me/Movies_emperio)
 
 ## Credits 
 * [![ᎯℕUℛᎯᎶ](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/sources_cods)
@@ -135,7 +128,6 @@ link - to create link for one post
 ### Note
 
 you a Developer.
-Fork the repo and edit as per your needs.
+Fork the repo and edit as per your needs.😉
 
-## Inspiration
-🙃
+
