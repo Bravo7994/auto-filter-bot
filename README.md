@@ -47,8 +47,6 @@ Read [this](https://telegram.dog/sources_cods) before you start messing up with 
 * `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
 * Check [info.py](https://github.com/AM-ROBOTS/AdvAnurag/blob/main/info.py) for more
 ## EXTRA FEATURES
-* `URL_SHORTENR_WEBSITE`: URL Shortener Website Link ( Without https://)
-* `URL_SHORTNER_WEBSITE_API`: URL Shortener Website API key
 * `SELF_DELETE`: True if SELF_DELETE is On, False if Off
 * `SELF_DELETE_SECONDS`: Enter Seconds to be SELF_DELETE 
 * `START_TXT`: Enter Your Start Message
@@ -80,6 +78,10 @@ python3 bot.py
 </pre>
 </p>
 </details>
+
+## Deploy on Koyeb
+
+The fastest way to deploy the application is to click the **Deploy to Koyeb** button below.
 
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/leanardo7994/auto-filter-bot&branch=main&name=filterbot01)
 
